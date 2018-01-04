@@ -1,1 +1,2 @@
-REQ # | User Requirement | Expected Results | Actual Results | Pass/Fail
+REQ # | User Requirement | Expected Results |
+------| ---------------- | ---------------- |
