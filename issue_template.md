@@ -1,2 +1,2 @@
-REQ # | User Requirement | Expected Results |
-------| ---------------- | ---------------- |
+REQ # | User Requirement | Test Procedure |Expected Results |
+------| ---------------- | -------------- |---------------- |
